@@ -1,0 +1,11 @@
+There are three .rar file here.
+
+KRLCommands.rar -- This rar file contains the a Komodo Edit and IDE compatible toolbox.
+
+Unpack the rar file. Drag and drop the toolbox onto the toolbox sidebar for Komodo.
+
+Or toolbox>import>krlcommands.kpz
+
+KomodoIcons--sometimes the icons for KRL Commands will not install properly. This file contains the icons that usually drop out.
+
+KRL-1.0.1-ko.rar--this file contains the currrent KRL plug-in for Komodo.
